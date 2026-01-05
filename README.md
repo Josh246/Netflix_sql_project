@@ -11,6 +11,6 @@
 
 ## Dataset
 
-The data for this project is sourced from the Kaggle dataset:
+The data for this project is sourced from the Kaggle dataset: [Netflix Movies and TV shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?utm_source=chatgpt.com)
 
-- **Dataset Link:** [https://www.kaggle.com/datasets/shivamb/netflix-shows?utm_source=chatgpt.com]
+- **Dataset Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows?utm_source=chatgpt.com
